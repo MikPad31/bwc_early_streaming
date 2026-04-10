@@ -146,5 +146,3 @@ FN: 7, TP: 17
 ## Inference
 
 Use [`inference.ipynb`](inference.ipynb) to run inference on unseen data.
-
-Both models were initially trained on BWC pilot trainee data from batches 160 to 190.
